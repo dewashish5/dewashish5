@@ -1,6 +1,11 @@
 ## Hi there 👋
 ![238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d](https://github.com/user-attachments/assets/133edc5c-79db-488e-b2c5-67157d263cae)
 
+Languages        PHP | Python | TypeScript | Go
+Infrastructure   AWS | Docker | Kubernetes | Terraform | GitHub Actions
+AI Integration   Claude Code | GitHub Copilot | MCP Protocol
+Platforms        Linux | macOS | AWS (Solutions Architect certified)
+
 <!--
 **dewashish5/dewashish5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
