@@ -24,10 +24,12 @@ I build modern, high-performance cross-platform applications using **Flutter**, 
 
 | Category | daily drivers / languages / tools |
 | :--- | :--- |
-| **Mobile & Frontend** | Flutter &middot; Dart &middot; HTML &middot; CSS &middot; JavaScript &middot; Swift &middot; Kotlin &middot; Tailwind &middot; Bootstrap |
-| **Backend & Databases** | Firebase &middot; MySQL &middot; PHP &middot; Flask &middot; Apache |
+| **Mobile & Frontend** | Flutter &middot; Dart &middot; HTML &middot; CSS &middot; JavaScript &middot; Swift &middot; Kotlin &middot; Tailwind &middot; Bootstrap &middot; FlutterFlow |
+| **Backend & Databases** | Firebase &middot; MySQL &middot; PHP &middot; Flask &middot; Apache &middot; Stitch |
 | **Languages & Systems** | Python &middot; C++ &middot; Android &middot; iOS &middot; macOS |
-| **Design & Tools** | Git &middot; VS Code &middot; Android Studio &middot; Xcode &middot; Figma &middot; Unreal Engine &middot; Blender &middot; Adobe PS/AE/PR |
+| **Design** | Figma &middot; Canva &middot; Blender &middot; Lottie &middot; Rive &middot; Unreal Engine &middot; Adobe PS/AE/PR |
+| **Tools** | Git &middot; VS Code &middot; Android Studio &middot; Xcode &middot; Azure DevOps &middot; Homebrew &middot; Cursor &middot; n8n |
+| **Productivity & AI** | Claude &middot; Meta &middot; Asana &middot; Trello &middot; MS Office |
 
 <br/>
 
