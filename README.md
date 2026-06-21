@@ -32,7 +32,20 @@ I build modern, high-performance cross-platform applications using **Flutter**, 
 <br/>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,dart,flutter,js,html,swift,kotlin,mysql,php,css,py,bootstrap,android,apple,apache,git,flask,firebase,brew,azure,tailwind,ae,unreal,androidstudio,vscode,figma,blender,ps,pr&theme=dark&perline=10" />
+  <img src="https://skillicons.dev/icons?i=dart,flutter,cpp,js,html,swift,kotlin,mysql,php,css,py,bootstrap,android,apple,apache,git,flask,firebase,brew,azure,tailwind,ae,unreal,androidstudio,vscode,figma,mongodb,blender,ps,pr&theme=dark&perline=10" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/FlutterFlow-100000?style=flat-square&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lottie-100000?style=flat-square&logo=lottiefiles&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rive-100000?style=flat-square&logo=rive&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-FF6E6E?style=flat-square&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/Asana-F06A6A?style=flat-square&logo=asana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Trello-026AA7?style=flat-square&logo=trello&logoColor=white" />
+  <img src="https://img.shields.io/badge/MS_Office-D83B01?style=flat-square&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cursor-100000?style=flat-square&logo=cursor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-100000?style=flat-square&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Meta-0467DF?style=flat-square&logo=meta&logoColor=white" />
 </p>
 
 
