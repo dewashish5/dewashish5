@@ -4,8 +4,6 @@
 
 <!-- terminal header -->
 ```yaml
-$ cat about.yaml
-
 name:                "Dewashish Hatekar"
 title:               "Full Stack Flutter & Web Developer"
 location:            "Bilaspur, Chhattisgarh, India 🇮🇳"
@@ -14,12 +12,8 @@ stack:               ["Flutter", "Dart", "Firebase", "Supabase", "Python"]
 after_hours:         ["coding 💻", "game development 🎮", "debugging at 2am 🌙"]
 contact:             "dewashishhatekar2@gmail.com"
 portfolio:           "https://devportfolio-v2-0.onrender.com/"
-
-$ uptime
-→ building since ~2021 · 0 days without shipping something
-
-$ echo "I build modern, high-performance cross-platform apps."
-I build modern, high-performance cross-platform apps.
+uptime:              "building since ~2021 · 0 days without shipping something"
+motto:               "I build modern, high-performance cross-platform apps."
 ```
 
 <p align="center">
