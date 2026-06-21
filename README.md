@@ -23,7 +23,7 @@ I build modern, high-performance cross-platform applications using **Flutter**, 
 ### 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dewashish5/dewashish5/main/tech_stack.png" width="100%" alt="Tech Stack Landscape" />
+  <img src="https://raw.githubusercontent.com/dewashish5/dewashish5/main/tech_ecosystem_final.png" width="100%" alt="Tech Stack Ecosystem" />
 </p>
 
 #### 📊 Most Used Technologies
