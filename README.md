@@ -49,7 +49,11 @@ I build modern, high-performance cross-platform apps.
 ## 📈 activity
 
 <p align="center">
-  <img src="https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=dewashish5&theme=dark&stats=true" alt="3D Isometric Contributions" />
+  <a href="https://www.skyline3d.in/dewashish5" target="_blank">
+    <img src="https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=dewashish5&theme=dark&stats=true" alt="3D Isometric Contributions" />
+  </a>
+  <br/>
+  <sub>Click the graph to view it interactively (zoom & rotate)!</sub>
 </p>
 
 ---
