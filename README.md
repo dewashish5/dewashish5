@@ -20,16 +20,10 @@ I build modern, high-performance cross-platform applications using **Flutter**, 
 
 ---
 
-### 🛠 Tech Stack & 3D Neural Network
-
-Click on the neural network below to open the fully interactive 3D view in your browser (zoom, rotate, and hover/click nodes to explore documentation)!
+### 🛠 Tech Stack
 
 <p align="center">
-  <a href="https://dewashish5.github.io/dewashish5/3d-neural-network.html" target="_blank">
-    <img src="https://raw.githubusercontent.com/dewashish5/dewashish5/main/tech_neural_network.gif" alt="3D Tech Neural Network" width="500" />
-  </a>
-  <br/>
-  <sub>Click network to view interactively (supports zoom, rotate, and click)!</sub>
+  <img src="https://raw.githubusercontent.com/dewashish5/dewashish5/main/tech_stack.png" width="100%" alt="Tech Stack Landscape" />
 </p>
 
 #### 📊 Most Used Technologies
