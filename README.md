@@ -6,27 +6,28 @@
 ```yaml
 $ cat about.yaml
 
-name:                "Dewashish"
-title:               "Solutions Architect & Software Engineer"
-location:            "India 🇮🇳"
-currently_grinding:  "Cloud Architecture & AI Agent Systems"
-stack:               ["Go", "TypeScript", "Python", "PHP", "AWS"]
-after_hours:         ["debugging at 2am 🌙", "learning new tech 🚀"]
-contact:             "dewashish.hatekar@gmail.com"
+name:                "Dewashish Hatekar"
+title:               "Full Stack Flutter & Web Developer"
+location:            "Bilaspur, Chhattisgarh, India 🇮🇳"
+currently_grinding:  "AI-powered Mobile & Web Features"
+stack:               ["Flutter", "Dart", "Firebase", "Supabase", "Python"]
+after_hours:         ["coding 💻", "game development 🎮", "debugging at 2am 🌙"]
+contact:             "dewashishhatekar2@gmail.com"
+portfolio:           "https://devportfolio-v2-0.onrender.com/"
 
 $ uptime
-→ coding since ~6yr · 0 days without shipping something
+→ building since ~2021 · 0 days without shipping something
 
-$ echo "I build things that scale."
-I build things that scale.
+$ echo "I build modern, high-performance cross-platform apps."
+I build modern, high-performance cross-platform apps.
 ```
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=3FB950&center=true&vCenter=true&width=620&lines=solutions+architect+%7C+software+engineer;go+%7C+typescript+%7C+python+%7C+php+%7C+aws;currently+building+scalable+systems;aws+certified+solutions+architect" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=3FB950&center=true&vCenter=true&width=620&lines=full+stack+flutter+%26+web+developer;dart+%7C+flutter+%7C+firebase+%7C+supabase+%7C+python;clean+architecture+%7C+bloc+%7C+getx+state+management;building+from+idea+to+deployment,+end-to-end" alt="typing" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/certified-AWS--Solutions--Architect-orange?style=flat-square&logo=amazonwebservices&logoColor=white" />
+  <a href="https://devportfolio-v2-0.onrender.com/"><img src="https://img.shields.io/badge/portfolio-devportfolio--v2-3fb950?style=flat-square&logo=flutter&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=dewashish5&label=profile+views&color=3fb950&style=flat-square" />
   <img src="https://img.shields.io/badge/based%20in-India%20🇮🇳-orange?style=flat-square" />
 </p>
@@ -56,13 +57,13 @@ I build things that scale.
 ## 🛠 tools i ship with
 
 ```
-LANGUAGES        Go · TypeScript · Python · PHP
-INFRASTRUCTURE   AWS · Docker · Kubernetes · Terraform · GitHub Actions
-AI & PLATFORMS   Claude Code · GitHub Copilot · MCP Protocol · Linux · macOS
+DAILY DRIVERS    Flutter · Dart · Firebase · Supabase · BLoC · GetX · Git · GitHub
+LANGUAGES        C++ · Python · HTML · CSS · JavaScript · MySQL
+TOOLBOX          Clean Architecture · MVVM · RESTful APIs · Unreal Engine
 ```
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,ts,python,php,aws,docker,kubernetes,terraform,git,githubactions,linux,apple&theme=dark&perline=12" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,cpp,py,html,css,js,mysql,git,github&theme=dark&perline=12" />
 </p>
 
 ---
@@ -71,6 +72,8 @@ AI & PLATFORMS   Claude Code · GitHub Copilot · MCP Protocol · Linux · macOS
 
 <p align="left">
   <a href="https://linkedin.com/in/dewashish-hatekar/"><img src="https://img.shields.io/badge/LinkedIn-dewashish--hatekar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://devportfolio-v2-0.onrender.com/"><img src="https://img.shields.io/badge/Portfolio-Dev%20Portfolio%20V2-3fb950?style=for-the-badge&logo=flutter&logoColor=white" /></a>
+  <a href="https://dewashish01.github.io/dev01/"><img src="https://img.shields.io/badge/Portfolio-V1-blue?style=for-the-badge" /></a>
 </p>
 
 ---
