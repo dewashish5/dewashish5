@@ -22,38 +22,18 @@ I build modern, high-performance cross-platform applications using **Flutter**, 
 
 ### 🛠 Tech Stack
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/dewashish5/dewashish5/main/tech_ecosystem_final.png" width="100%" alt="Tech Stack Ecosystem" />
-</p>
-
-#### 📊 Most Used Technologies
-
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/Dart-75%25-00C4B4?style=for-the-badge&logo=dart&logoColor=white" />
-      <br/>
-      <sub>Primary Language</sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/Flutter-70%25-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-      <br/>
-      <sub>Main Framework</sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/C++-15%25-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-      <br/>
-      <sub>Systems & Performance</sub>
-    </td>
-  </tr>
-</table>
-
-| Category | Skills & Tools |
+| Category | daily drivers / languages / tools |
 | :--- | :--- |
-| **Mobile & Frontend** | Flutter &middot; Dart &middot; HTML &middot; CSS &middot; JavaScript |
-| **Backend & Databases** | Firebase &middot; Supabase &middot; MySQL &middot; RESTful APIs |
-| **Languages & Systems** | Python &middot; C++ &middot; Linux &middot; macOS |
-| **State & Architecture** | BLoC &middot; GetX &middot; Clean Architecture &middot; MVVM |
+| **Mobile & Frontend** | Flutter &middot; Dart &middot; HTML &middot; CSS &middot; JavaScript &middot; Swift &middot; Kotlin &middot; Tailwind &middot; Bootstrap |
+| **Backend & Databases** | Firebase &middot; MySQL &middot; PHP &middot; Flask &middot; Apache |
+| **Languages & Systems** | Python &middot; C++ &middot; Android &middot; iOS &middot; macOS |
+| **Design & Tools** | Git &middot; VS Code &middot; Android Studio &middot; Xcode &middot; Figma &middot; Unreal Engine &middot; Blender &middot; Adobe PS/AE/PR |
+
+<br/>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,dart,flutter,js,html,swift,kotlin,mysql,php,css,py,bootstrap,android,apple,apache,git,flask,firebase,brew,azure,tailwind,ae,unreal,androidstudio,vscode,figma,blender,ps,pr&theme=dark&perline=10" />
+</p>
 
 
 ---
