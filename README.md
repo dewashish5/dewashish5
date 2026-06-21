@@ -1,50 +1,60 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/133edc5c-79db-488e-b2c5-67157d263cae" alt="Developer GIF" />
-</p>
+# Dewashish Hatekar
 
-<!-- terminal header -->
-```yaml
-name:                "Dewashish Hatekar"
-title:               "Full Stack Flutter & Web Developer"
-location:            "Bilaspur, Chhattisgarh, India 🇮🇳"
-currently_grinding:  "AI-powered Mobile & Web Features"
-stack:               ["Flutter", "Dart", "Firebase", "Supabase", "Python"]
-after_hours:         ["coding 💻", "game development 🎮", "debugging at 2am 🌙"]
-contact:             "dewashishhatekar2@gmail.com"
-portfolio:           "https://devportfolio-v2-0.onrender.com/"
-uptime:              "building since ~2021 · 0 days without shipping something"
-motto:               "I build modern, high-performance cross-platform apps."
-```
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=3FB950&center=true&vCenter=true&width=620&lines=full+stack+flutter+%26+web+developer;dart+%7C+flutter+%7C+firebase+%7C+supabase+%7C+python;clean+architecture+%7C+bloc+%7C+getx+state+management;building+from+idea+to+deployment,+end-to-end" alt="typing" />
+<p align="left">
+  <strong>Full Stack Flutter & Web Developer</strong> based in Bilaspur, India 🇮🇳
 </p>
 
 <p align="center">
-  <a href="https://devportfolio-v2-0.onrender.com/"><img src="https://img.shields.io/badge/portfolio-devportfolio--v2-3fb950?style=flat-square&logo=flutter&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=dewashish5&label=profile+views&color=3fb950&style=flat-square" />
-  <img src="https://img.shields.io/badge/based%20in-India%20🇮🇳-orange?style=flat-square" />
+  <img src="https://github.com/user-attachments/assets/133edc5c-79db-488e-b2c5-67157d263cae" alt="Developer GIF" width="480" />
 </p>
 
 ---
 
-## ⚡ stats
+### 🚀 About Me
+
+I build modern, high-performance cross-platform applications using **Flutter**, **Dart**, and **Clean Architecture**. With experience in MVVM and BLoC/GetX state management, I focus on creating visually engaging, scalable apps and integrating AI-powered features.
+
+*   🌱 Currently advancing in AI-powered mobile features and game development.
+*   🎓 BCA Graduate from Atal Bihari Vajpayee University.
+*   💬 Ask me about Flutter, Supabase/Firebase, or UI/UX design.
+
+---
+
+### 🛠 Tech Stack
+
+| Category | daily drivers / languages / tools |
+| :--- | :--- |
+| **Mobile & Frontend** | Flutter &middot; Dart &middot; HTML &middot; CSS &middot; JavaScript |
+| **Backend & Databases** | Firebase &middot; Supabase &middot; MySQL &middot; RESTful APIs |
+| **Languages & Systems** | Python &middot; C++ &middot; Linux &middot; macOS |
+| **State & Architecture** | BLoC &middot; GetX &middot; Clean Architecture &middot; MVVM |
+
+<br/>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dewashish5&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=dewashish5&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=3FB950&ring=3FB950&currStreakLabel=3FB950" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,cpp,py,mysql,git,github,html,css,js&theme=dark&perline=12" width="600" />
 </p>
 
 ---
 
-## 📈 activity
+### 📊 Stats & Activity
+
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dewashish5&layout=compact&theme=github_dark&hide_border=true&langs_count=6" height="150" />
+    </td>
+    <td align="center" valign="top" width="50%">
+      <img src="https://streak-stats.demolab.com?user=dewashish5&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=3FB950&ring=3FB950&currStreakLabel=3FB950" height="150" />
+    </td>
+  </tr>
+</table>
+
+<br/>
 
 <p align="center">
   <a href="https://www.skyline3d.in/dewashish5" target="_blank">
-    <img src="https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=dewashish5&theme=dark&stats=true" alt="3D Isometric Contributions" />
+    <img src="https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=dewashish5&theme=dark&stats=true" alt="3D Isometric Contributions" width="600" />
   </a>
   <br/>
   <sub>Click the graph to view it interactively (zoom & rotate)!</sub>
@@ -52,32 +62,14 @@ motto:               "I build modern, high-performance cross-platform apps."
 
 ---
 
-## 🛠 tools i ship with
-
-```
-DAILY DRIVERS    Flutter · Dart · Firebase · Supabase · BLoC · GetX · Git · GitHub
-LANGUAGES        C++ · Python · HTML · CSS · JavaScript · MySQL
-TOOLBOX          Clean Architecture · MVVM · RESTful APIs · Unreal Engine
-```
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,cpp,py,html,css,js,mysql,git,github&theme=dark&perline=12" />
-</p>
-
----
-
-## 🔗 find me
+### 🔗 Connect
 
 <p align="left">
-  <a href="https://linkedin.com/in/dewashish-hatekar/"><img src="https://img.shields.io/badge/LinkedIn-dewashish--hatekar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/dewashish-hatekar/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-dewashish--hatekar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
   &nbsp;&nbsp;
-  <a href="https://devportfolio-v2-0.onrender.com/"><img src="https://img.shields.io/badge/Portfolio-Dev%20Portfolio%20V2-3fb950?style=for-the-badge&logo=flutter&logoColor=white" /></a>
-  &nbsp;&nbsp;
-  <a href="https://dewashish01.github.io/dev01/"><img src="https://img.shields.io/badge/Portfolio-V1-blue?style=for-the-badge" /></a>
-</p>
-
----
-
-<p align="center">
-  <code>dewashish5@github</code> — made with ❤️ + too much coffee ☕
+  <a href="https://devportfolio-v2-0.onrender.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Dev%20Portfolio%20V2-3fb950?style=for-the-badge&logo=flutter&logoColor=white" />
+  </a>
 </p>
