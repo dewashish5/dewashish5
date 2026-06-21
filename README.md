@@ -72,8 +72,6 @@ TOOLBOX          Clean Architecture · MVVM · RESTful APIs · Unreal Engine
 
 <p align="left">
   <a href="https://linkedin.com/in/dewashish-hatekar/"><img src="https://img.shields.io/badge/LinkedIn-dewashish--hatekar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://devportfolio-v2-0.onrender.com/"><img src="https://img.shields.io/badge/Portfolio-Dev%20Portfolio%20V2-3fb950?style=for-the-badge&logo=flutter&logoColor=white" /></a>
-  <a href="https://dewashish01.github.io/dev01/"><img src="https://img.shields.io/badge/Portfolio-V1-blue?style=for-the-badge" /></a>
 </p>
 
 ---
