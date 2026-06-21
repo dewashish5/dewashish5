@@ -116,4 +116,8 @@ I build modern, high-performance cross-platform applications using **Flutter**, 
   <a href="https://devportfolio-v2-0.onrender.com/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Dev%20Portfolio%20V2-3fb950?style=for-the-badge&logo=flutter&logoColor=white" />
   </a>
+  &nbsp;&nbsp;
+  <a href="https://dewashish01.github.io/dev01/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-V1-blue?style=for-the-badge" />
+  </a>
 </p>
