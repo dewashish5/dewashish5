@@ -26,7 +26,7 @@ Click on the neural network below to open the fully interactive 3D view in your 
 
 <p align="center">
   <a href="https://dewashish5.github.io/dewashish5/3d-neural-network.html" target="_blank">
-    <img src="https://raw.githubusercontent.com/dewashish5/dewashish5/main/tech_neural_network.png" alt="3D Tech Neural Network" width="500" />
+    <img src="https://raw.githubusercontent.com/dewashish5/dewashish5/main/tech_neural_network.gif" alt="3D Tech Neural Network" width="500" />
   </a>
   <br/>
   <sub>Click network to view interactively (supports zoom, rotate, and click)!</sub>
