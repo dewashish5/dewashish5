@@ -49,7 +49,7 @@ I build modern, high-performance cross-platform apps.
 ## 📈 activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dewashish5&theme=github-compact&hide_border=true&area=true&color=3fb950&line=3fb950&point=58a6ff" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dewashish5&theme=react-dark&hide_border=true&area=true" />
 </p>
 
 ---
